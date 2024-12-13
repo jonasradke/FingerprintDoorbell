@@ -1,5 +1,8 @@
 # FingerprintDoorbell
 
+###Updates
+Updated ElegantOTA to V3 and ESPAsyncWebServer
+
 ## What is FingerprintDoorbell?
 It's more or less a doorbell with the ability to scan finger prints or a fingerprint reader with the ability to act as doorbell, depending on your perspective ;-). But lets speak some images:
 
