@@ -1,6 +1,6 @@
 # FingerprintDoorbell
 
-###Updates
+##Updates
 Updated ElegantOTA to V3 and ESPAsyncWebServer
 
 ## What is FingerprintDoorbell?
